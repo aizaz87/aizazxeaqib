@@ -48,11 +48,13 @@ def jalan(z):
 
 #### LOGO ####
 logo = """
-\033[1;98m     dMP dMP    dMP dMP     dMMMMMP     dMP
-\033[1;96m    dMP dMP    dMP dMP       .dMP"     amr
-\033[1;95m   dMMMMMP    dMP dMP      .dMP"      dMP
-\033[1;94m  dMP dMP    dMP.aMP     .dMP"       dMP
-\033[1;93m dMP dMP     VMMMP"     dMMMMMP     dMP
+\033[1;98m╭━━━┳━━┳━━━━┳━━━┳━━━━┳╮╱╭╮
+\033[1;96m┃╭━╮┣┫┣┻━━╮━┃╭━╮┣━━╮━┃┃╱┃┃
+\033[1;95m┃┃╱┃┃┃┃╱╱╭╯╭┫┃╱┃┃╱╭╯╭┫┃╱┃┃
+\033[1;94m┃╰━╯┃┃┃╱╭╯╭╯┃╰━╯┃╭╯╭╯┃┃╱┃┃
+\033[1;93m┃╭━╮┣┫┣┳╯━╰━┫╭━╮┣╯━╰━┫╰━╯┃
+\033[1;93m╰╯╱╰┻━━┻━━━━┻╯╱╰┻━━━━┻━━━╯
+
 \033[1;91m    ║══▒═💀═▒═💀═▒═══¤═¤═¤════════════¤═══¤═══¤═══║
 \033[1;96m    ║✯ AIZAZ KHAN         ║    
 \033[1;98m    ║✯ Co-Operative:AQIB KHAN  ║  
@@ -76,7 +78,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 \033[1;97m************************************************
-\033[1;96m~ IM NOT RESPONSIBLE FOR ANY MISS USE MR HUZAIFA ~
+\033[1;96m~ IM NOT RESPONSIBLE FOR ANY MISS USE MR.KHAN ~
 \033[1;97m************************************************
 
 \033[1;95m____─▄───────▄█▄───────▄─ AIZAZ 💓
